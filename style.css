@@ -41,3 +41,8 @@
 .boxType3 {
   background: blue;
 }
+
+.puppy {
+  background-image: url("http://evansheline.com/wp-content/uploads/2012/04/happy-dog.jpg");
+  background-size: 125%;
+}
